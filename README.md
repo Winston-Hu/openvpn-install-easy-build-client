@@ -2,6 +2,15 @@
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/angristan)
 
+Local notes: 
+1. quick understand and install the OpenVPN Server
+2. quick build and customize the client .ovpn file
+3. generate CCD for future modification
+
+- [EC2 OpenVPN Install Notes](./EC2_OpenVPN_Install_Notes.md)
+- [EC2 OpenVPN Client Notes](./EC2_OpenVPN_Client_Notes.md)
+- [manual-client-ovpn.sh](./manual-client-ovpn.sh)
+
 OpenVPN installer for Debian, Ubuntu, Fedora, openSUSE, CentOS, Amazon Linux, Arch Linux, Oracle Linux, Rocky Linux and AlmaLinux.
 
 This script will let you setup and manage your own secure VPN server in just a few seconds.
